@@ -1,0 +1,11 @@
+,Dataset,Architecture,FeatureLevel,ROIType,Slices,Aggregation,AUC
+0,C4KCKiTS,ResNet50,Mid,ROIchannel,All,Max,0.7450785224507852
+1,CRLM,ResNet18,Top,ROIchannel,Max,Mean,0.8104166666666666
+2,Desmoid,ResNet50,Mid,ROI,All,Max,0.8637352570708806
+3,GBM,VGG19,Mid,ROIchannel,Max,Mean,0.8853276353276353
+4,GIST,VGG19,Mid,ROIchannel,All,Mean,0.7943212365591399
+5,HN,VGG19,Mid,ROIchannel,All,Mean,0.9105908584169454
+6,ISPY1,ResNet18,Top,ROIcut,All,Mean,0.7835820895522388
+7,Lipo,DenseNet169,Top,ROIcut,All,Max,0.9188596491228069
+8,Liver,DenseNet169,Mid,ROIcut,All,Mean,0.8182238667900092
+9,Melanoma,ResNet50,Mid,ROIcut,Max,Mean,0.8188775510204082
